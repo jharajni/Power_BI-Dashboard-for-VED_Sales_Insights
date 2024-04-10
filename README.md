@@ -11,5 +11,6 @@ as a valuable tool for aligning business objectives with market realities.
 
 In conclusion, implementing a Power BI dashboard for sales insights offers numerous benefits for the CEO of VED Hardware, providing a holistic view of sales performance and enabling data-driven decision-making to drive business growth and success in the technology industry.
 
+Live link-https://1drv.ms/u/c/e827518353af39cd/Efvr9PKrLJlGvTrbRIi36uwBChvFEs3GI0V-MEkOSk5Hvg?e=F9hzfP
 
 
