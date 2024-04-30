@@ -13,7 +13,7 @@ In conclusion, implementing a Power BI dashboard for sales insights offers numer
 
 Live link-https://1drv.ms/u/c/e827518353af39cd/Efvr9PKrLJlGvTrbRIi36uwBChvFEs3GI0V-MEkOSk5Hvg?e=F9hzfP
 
-First Image:
+
 <img width="598" alt="VED_SALES_INSIGHTS_1" src="https://github.com/jharajni/Power_BI-Dashboard-for-VED_Sales_Insights/assets/91691412/ff66c8f6-9fd6-41c0-9249-156b14baa745">
 
 The dashboard features a dynamic chart illustrating the overall growth trajectory, offering valuable insights into sales performance. Additionally, revenue distribution by market is visually represented, enabling a clear understanding of geographical sales patterns. Furthermore, the dashboard displays sales data segmented by market, facilitating a comparative analysis across different regions. Overall, the dashboard offers a powerful tool for understanding sales dynamics, identifying growth opportunities, and making informed business decisions.
