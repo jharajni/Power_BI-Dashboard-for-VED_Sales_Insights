@@ -18,7 +18,12 @@ The dashboard features a dynamic chart illustrating the overall growth trajector
 
 <img width="386" alt="VED_SALES_INSIGHTS_2" src="https://github.com/jharajni/Power_BI-Dashboard-for-VED_Sales_Insights/assets/91691412/35cef0fa-4247-408e-a09c-09d63d9bdcc7">
 
-The photo captures a Ved hardware Sales Insights Dashboard, emphasizing the revenue trend for the year 2020 through a graphical representation. The chart visually depicts a declining trend in revenue over the course of the year, providing insights into potential challenges or market shifts. Additionally, the dashboard presents revenue breakdowns by market, offering insights into regional sales performance and market dynamics. Furthermore, it highlights the best-performing product contributing to revenue and identifies the least profitable product, aiding in strategic decision-making and resource allocation
+The photo captures a Ved hardware Sales Insights Dashboard, emphasizing the revenue trend for the year 2020 through a graphical representation. The chart visually depicts a declining trend in revenue over the course of the year, providing insights into potential challenges or market shifts. Additionally, the dashboard presents revenue breakdowns by market, offering insights into regional sales performance and market dynamics. Furthermore, it highlights the best-performing product contributing to revenue and identifies the least profitable product, aiding in strategic decision-making and resource allocation.
+
+<img width="596" alt="VED_SALES_INSIGHTS_3" src="https://github.com/jharajni/Power_BI-Dashboard-for-VED_Sales_Insights/assets/91691412/4fabae34-7ede-4d2b-8ab3-bb6b5103c13d">
+
+The photo captures a Ved hardware Sales Insights Dashboard, focusing on the top-selling product and its top 5 customers across India. The graph highlights the revenue trend, showcasing fluctuations over time. Additionally, the dashboard illustrates revenue and sales data by market, providing insights into geographical sales distribution and market performance. This comprehensive visualization offers a clear understanding of sales dynamics, customer preferences, and revenue contributions,
+
 
 
 
